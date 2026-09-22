@@ -4,9 +4,9 @@ Student Information
 
                                             
 
-Student Name   :                                      Adarsh Rathod                                      
+Student Name   :                                      Shravani Thakur                                      
 
-ZPRN            :                                     125UAD1148
+ZPRN            :                                     125UAD1098
 
 Class / Division  :                                   SY-B.Tech / A
 
